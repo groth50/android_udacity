@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Заказ кофе</string>
+    <string name="name">Имя</string>
+    <string name="toppings">Добавки</string>
+    <string name="user_name">"Имя: <xliff:g id="name" example="Ololosh">%s</xliff:g> "</string>
+</resources>
